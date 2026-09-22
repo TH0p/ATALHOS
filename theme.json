@@ -1,8 +1,0 @@
-{
-  "name": "tab-switch-tabs",
-  "description": "Pressionar Tab troca para a próxima aba do navegador",
-  "version": "1.0.0",
-  "author": "you",
-  "js": "chrome.js",
-  "readme": "README.md"
-}
